@@ -39,7 +39,7 @@ data = [{
 }]
 
 
-my_layout = Layout(title="US Fires 9-1-20 to 9-13-20")
+my_layout = Layout(title="US Fires 9-14-20 to 9-20-20")
 
 fig = {'data':data, 'layout':my_layout}
 
